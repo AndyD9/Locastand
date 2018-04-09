@@ -19,17 +19,15 @@ Exhibition stand management 👠
 * **AAE** = As An Exposant
 * **AAV** = As A Visitor
 
-### Actions:
+### Developpement :
 
-#### Developpement :
+#### AAE :
 
-##### AAE :
+#### AAV : 
 
-##### AAV : 
+### Client :
 
-#### Client :
-
-##### AAE :
+#### AAE :
 
 * [ ] **AAE** I can see the plan of the stands's exhibition
 * [ ] **AAF** I can click on an active stand to see the informations
@@ -39,7 +37,7 @@ Exhibition stand management 👠
 * [ ] **AAE** I can choose to buy or rent an asset
 * [ ] **AAE** I pay my package
 
-##### AAV :
+#### AAV :
 
 * [ ] **AAF** I can see the plan of the stands's exhibition
 * [ ] **AAF** I can click on an active stand to see the informations
